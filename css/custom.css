@@ -1,0 +1,22 @@
+.referencia {
+	position:absolute!important;
+	bottom:0!important;
+	width:100%!important;
+	font-size:12px!important;
+}
+.reveal .slides {
+    text-align: left!important;
+}
+.corpo{
+	font-size:30px!important;
+}
+
+.grafico{
+	border: 0px!important;
+}
+.citacao {
+	font-style: italic!important;
+	font-size: 25px!important;
+	text-align: justify!important;
+	margin-left: 6cm!important;
+}
